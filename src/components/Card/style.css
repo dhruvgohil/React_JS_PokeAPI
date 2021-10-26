@@ -1,0 +1,50 @@
+p {
+    margin: 0;
+    text-align: center;
+}
+
+.Card {
+    background: white;
+    border-radius: 20px;
+    /*width: 500px;*/
+}
+
+.Card__img {
+    text-align: center;
+    /*float: left;*/
+}
+
+.Card__types {
+    display: flex;
+    justify-content: center;    
+}
+
+.Card__type {
+    padding: 5px 10px;
+    margin: 10px 10px 10px 0;
+    border-radius: 5px;
+    background: cyan;
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.Card__name {
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 1000;
+}
+
+.Card__info {
+    /*margin-left: 10px;*/
+}
+
+.Card__data {
+    padding-bottom: 20px;
+}
+
+.Card__data .title {
+    font-weight: 700;
+    padding-bottom: 5px;
+    text-transform: capitalize;
+}
