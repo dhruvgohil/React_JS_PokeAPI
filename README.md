@@ -5,7 +5,7 @@ This is basic Pokemon bio interface using react js and poke api
 Download this git repository
 
 ```bash
-cd pokeview
+cd React_JS_PokeAPI-main
 npm start
 # go to localhost:3000
 ```
