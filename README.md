@@ -1,11 +1,18 @@
 # React_JS_PokeAPI
 This is basic Pokemon bio interface using react js and poke api 
 
-# To run this web app
-Download this git repository
+# If you haven't installed npm yet, Install it with
 
 ```bash
-cd React_JS_PokeAPI-main
+apt install npm
+npx create-react-app pokeview
+cd pokeview
+```
+Download this git repository, copy and paste all the content from this git repository to pokeview folder
+
+# To run this web app
+
+```bash
 npm start
 # go to localhost:3000
 ```
